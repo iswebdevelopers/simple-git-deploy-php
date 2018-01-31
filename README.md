@@ -1,7 +1,7 @@
 # simple-git-deploy-php
 simple git deploy snippet to automate continuous intergation 
 
-## Modified as need from 
+## Forked from and modified as needed
 https://github.com/markomarkovic/simple-php-git-deploy
 
 ## modified for iis server using php - modifications as follows
